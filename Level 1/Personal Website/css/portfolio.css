@@ -1,0 +1,249 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.heading{
+    height:80px;
+   width:100%;
+   background-color: whitesmoke;
+   display: flex;
+}
+.menu{
+    margin-left:400px;
+    margin-top: 20px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu1{
+    margin-left:20px;
+    margin-top: 21px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu2{
+    margin-left:20px;
+    margin-top: 20px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu3{
+    margin-left:30px;
+    margin-top: 21px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu4{
+    margin-left:60px;
+    margin-top: 21px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu5{
+    margin-left:5px;
+    margin-top: 21px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.menu6{
+    margin-left:10px;
+    margin-top: 21px;
+    font-weight:1000;
+    font-size: larger;
+    width:100px;
+}
+.intro{
+    height:300px;
+    width:100%;
+}
+.writing{
+    float:left;
+    height:400px;
+    width:60%;
+    background-color: white;
+}
+.image_me{
+   float: left;
+   height:400px;
+   width:40%;
+   background-color:white;
+}
+.btn{
+        background-color: blueviolet;
+        border-radius: 25px;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        
+}
+.btn:hover{
+    transition: all 2s;
+    background-color: aqua;
+    color:black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.image_me2{
+    background-color: white;
+    float:left;
+    height:430px;
+    width: 40%;
+}
+.what_i_do{
+    float:left;
+    height: 430px;
+    width: 60%;
+    background-color: white;
+}
+.proficiency{
+    float:left;
+    height:400px;
+    width:60%;
+    background-color: white;
+}
+.image_me3{
+    float:left;
+    height:400px;
+    width:40%;
+    background-color: white;
+}
+.progress {
+    width: 80%;
+    background-color: white;
+    border-radius: 0px;
+    padding: 20px;
+  }
+
+  .bar {
+    height: 40px;
+    background-color: green;
+    width: 0%;
+    border-radius: 15px;
+    transition: width 0.5s;
+  }
+
+  .label {
+    font-family: Arial, sans-serif;
+    margin-top: 5px;
+    color: black;
+    font-weight: bold;
+  }
+  .projects{
+    float:left;
+    height:800px;
+    width:100%;
+    background-color: white;
+  }
+  .project1{
+    float:left;
+    height:200px;
+    width:40%;
+    background-color: white;
+    margin-left: 74px;
+    cursor: pointer;
+    border: 2px solid black;
+  }
+  .project1:hover{
+    transition: all 2s;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .project2{
+    float:left;
+    height:200px;
+    width:40%;
+    background-color: white;
+    margin-left: 74px;
+    cursor: pointer;
+    margin-top: 30px;
+    border: 2px solid black;
+  }
+  .project2:hover{
+    transition: all 2s;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .project3{
+    float:left;
+    height:200px;
+    width:40%;
+    background-color: white;
+    margin-left: 74px;
+    cursor: pointer;
+    margin-top: 30px;
+    border: 2px solid black;
+  }
+  .project3:hover{
+    transition: all 2s;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  .circle{
+    height:5px;
+    width:5px;
+    border-radius:25%;
+    background-color: yellow;
+    margin-left: 70px;
+  }
+  .fg{
+    margin-left: 70px;
+  }
+  .big_projects{
+    float: left;
+    height:240px;
+    width: 100%;
+    background-color: white;
+  }
+  .name{
+    height:50px;
+    width:100%;
+    background-color:white ;
+  }
+  .acheivements{
+    margin-top: 30px;
+    height:600px;
+    width:100%;
+    float: left;
+    background-color: whites;
+  }
+  .boxes{
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 450px;
+    width:30%;
+    border:1px solid black;
+    background-color: whitesmoke;
+  }
+  .boxes img{
+    border:1px solid black;
+  }
+  .profile{
+    width:100%;
+    float:left;
+    height:400px;
+  }
+  .wr{
+    float:left;
+    height:300px;
+    width:65%;
+    background-color: white;
+  }
+  footer{
+    float:left;
+    margin-top: 20px;
+    height:30px;
+    width:100%;
+    background-color: #606C5D;
+    color:#080202;
+}
+  

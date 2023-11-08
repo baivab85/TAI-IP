@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecommerce
 Online Shopping Portal Description
 
@@ -36,3 +37,6 @@ Responsive Design: The portal should be responsive to work on a variety of devic
 Security: Security measures, including SSL certificates, encryption, and data protection, are crucial to protect user data and financial transactions.
 
 Building an online shopping portal is a complex project that requires a combination of front-end and back-end technologies. It's important to consider the user experience, security, and scalability while developing the system. Additionally, you'll need to continuously update and maintain the portal to ensure its functionality and security.
+=======
+# TAIRP
+>>>>>>> 88cd87b4a815afff905c43034e2775f996a83c10
